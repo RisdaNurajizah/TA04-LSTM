@@ -7,7 +7,7 @@ __pycache__/
 *.pyc
 
 # File model besar (opsional)
-*.h5
+# *.h5
 
 # File konfigurasi OS/editor
 .DS_Store
